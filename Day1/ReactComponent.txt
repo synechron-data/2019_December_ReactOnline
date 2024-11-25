@@ -1,0 +1,26 @@
+UI COMPONENT
+
+	Data
+		Inside  (State)
+		Outside (Props)
+
+	Behavior (Methods)
+
+	View (UI) - Written using a Templating Syntax (JSX)
+
+	Style (CSS)
+
+-----------------------------------------------------
+REACT JS (CREATING COMPONENT)
+
+	For Rendering on
+
+		Browser (Client Side) - ReactDOM
+
+		Node App (Server Side) - ReactDOMServer	
+
+		.Net App (Server Side) - React .Net
+
+		Mobile	- React Native
+
+		Windows Application - Electron JS	
